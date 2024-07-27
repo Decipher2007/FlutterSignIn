@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609699828202",
+    "project_id": "fluttersignin-af057",
+    "storage_bucket": "fluttersignin-af057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609699828202:android:36942466e48410b457e293",
+        "android_client_info": {
+          "package_name": "com.example.testforkotlinversion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqoJUJ4RQcAYV_51eisi2j_rqfof7xAA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
